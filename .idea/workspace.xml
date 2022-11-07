@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3041b12e-486f-412d-949b-bd75664d169b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework3/SetupBrowserExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework3/UnsplashAppleAppStoreAddone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework3/UnsplashSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework4/NotAnPositiveNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework4/ThereIsNoSuchTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework4/TriangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson4/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson4/BoxIsEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson4/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson4/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/homework4/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson4/AssertJExamplesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson4/BoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson4/FunctionsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/gb/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/gb/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +50,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15429688",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -51,73 +59,100 @@
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnsplashAppleAppStoreAddone">
-    <configuration name="SeleniumStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-18.0.2.1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.homework3.SeleniumStart" />
+  <component name="RunManager" selected="JUnit.TriangleTest">
+    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson3.*" />
+          <option name="PATTERN" value="ru.gb.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.homework4" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework4.TriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetupBrowserExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson3.SetupBrowserExamples" />
+    <configuration name="TriangleTest.ThereIsNoSuchTriangleException (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson3.*" />
+          <option name="PATTERN" value="ru.gb.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.homework4" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework4.TriangleTest" />
+      <option name="METHOD_NAME" value="ThereIsNoSuchTriangleException(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsplashAppleAppStoreAddone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.homework3.UnsplashAppleAppStoreAddone" />
+    <configuration name="TriangleTest.ThereIsNoSuchTriangleException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson3.*" />
+          <option name="PATTERN" value="ru.gb.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.homework4" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework4.TriangleTest" />
+      <option name="METHOD_NAME" value="ThereIsNoSuchTriangleException(int,int,int,double)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsplashSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.homework3.UnsplashSearch" />
+    <configuration name="TriangleTest.triangleAreaNotAPositiveNumberException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson3.*" />
+          <option name="PATTERN" value="ru.gb.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.homework4" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework4.TriangleTest" />
+      <option name="METHOD_NAME" value="triangleAreaNotAPositiveNumberException(int,int,int,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.triangleAreaPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.homework4" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework4.TriangleTest" />
+      <option name="METHOD_NAME" value="triangleAreaPositive(int,int,int,double)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SetupBrowserExamples" />
-      <item itemvalue="Application.UnsplashAppleAppStoreAddone" />
-      <item itemvalue="Application.UnsplashSearch" />
-      <item itemvalue="Application.SeleniumStart" />
+      <item itemvalue="JUnit.TriangleTest" />
+      <item itemvalue="JUnit.TriangleTest.ThereIsNoSuchTriangleException" />
+      <item itemvalue="JUnit.TriangleTest.ThereIsNoSuchTriangleException (1)" />
+      <item itemvalue="JUnit.TriangleTest.triangleAreaNotAPositiveNumberException" />
+      <item itemvalue="JUnit.TriangleTest.triangleAreaPositive" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnsplashAppleAppStoreAddone" />
-        <item itemvalue="Application.UnsplashSearch" />
-        <item itemvalue="Application.SetupBrowserExamples" />
-        <item itemvalue="Application.SeleniumStart" />
+        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="JUnit.TriangleTest.ThereIsNoSuchTriangleException (1)" />
+        <item itemvalue="JUnit.TriangleTest.triangleAreaPositive" />
+        <item itemvalue="JUnit.TriangleTest.ThereIsNoSuchTriangleException" />
+        <item itemvalue="JUnit.TriangleTest.triangleAreaNotAPositiveNumberException" />
       </list>
     </recent_temporary>
   </component>
@@ -142,16 +177,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/gb/homework3/UnsplashAppleAppStoreAddone.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
