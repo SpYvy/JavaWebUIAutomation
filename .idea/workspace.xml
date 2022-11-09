@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca597f82-f673-4a1e-83fe-1f5b640909f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson5/UnsplashTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson5/ActionsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/gb/lesson5/UnsplashTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson5/UnsplashTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,16 +48,35 @@
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UnsplashTest.goToSomethingTest">
-    <configuration name="TriangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.homework4.TriangleArea" />
+  <component name="RunManager" selected="JUnit.ActionsTest.alertExampleTest">
+    <configuration name="ActionsTest.alertExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.homework4.*" />
+          <option name="PATTERN" value="ru.gb.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.lesson5" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson5.ActionsTest" />
+      <option name="METHOD_NAME" value="alertExampleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionsTest.highlightTextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.lesson5" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson5.ActionsTest" />
+      <option name="METHOD_NAME" value="highlightTextTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,22 +92,6 @@
       <option name="PACKAGE_NAME" value="ru.gb.homework4" />
       <option name="MAIN_CLASS_NAME" value="ru.gb.homework4.TriangleTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TriangleTest.ThereIsNoSuchTriangleException (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaWebUIAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.gb.homework4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.homework4" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.homework4.TriangleTest" />
-      <option name="METHOD_NAME" value="ThereIsNoSuchTriangleException(int,int,int)" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,19 +129,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TriangleArea" />
+      <item itemvalue="JUnit.ActionsTest.alertExampleTest" />
+      <item itemvalue="JUnit.ActionsTest.highlightTextTest" />
       <item itemvalue="JUnit.UnsplashTest.goToOkkoTest" />
       <item itemvalue="JUnit.UnsplashTest.goToSomethingTest" />
       <item itemvalue="JUnit.TriangleTest" />
-      <item itemvalue="JUnit.TriangleTest.ThereIsNoSuchTriangleException (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ActionsTest.alertExampleTest" />
+        <item itemvalue="JUnit.ActionsTest.highlightTextTest" />
         <item itemvalue="JUnit.UnsplashTest.goToSomethingTest" />
         <item itemvalue="JUnit.UnsplashTest.goToOkkoTest" />
         <item itemvalue="JUnit.TriangleTest" />
-        <item itemvalue="Application.TriangleArea" />
-        <item itemvalue="JUnit.TriangleTest.ThereIsNoSuchTriangleException (1)" />
       </list>
     </recent_temporary>
   </component>
