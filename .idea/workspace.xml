@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca597f82-f673-4a1e-83fe-1f5b640909f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson5/ActionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/homework5/UnsplashWebUITest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/gb/lesson5/UnsplashTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson5/UnsplashTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,115 +32,119 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/GIGABYTE-PC/IdeaProjects/JavaWebUIAutomation/src/main/java/ru/gb/homework5",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\java\ru\gb\homework5" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ActionsTest.alertExampleTest">
-    <configuration name="ActionsTest.alertExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UnsplashWebUITest">
+    <configuration name="UnsplashWebUITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson5.*" />
+          <option name="PATTERN" value="ru.gb.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.lesson5" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson5.ActionsTest" />
-      <option name="METHOD_NAME" value="alertExampleTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ActionsTest.highlightTextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaWebUIAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.gb.lesson5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.lesson5" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson5.ActionsTest" />
-      <option name="METHOD_NAME" value="highlightTextTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaWebUIAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.gb.homework4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.homework4" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.homework4.TriangleTest" />
+      <option name="PACKAGE_NAME" value="ru.gb.homework5" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework5.UnsplashWebUITest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsplashTest.goToOkkoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnsplashWebUITest.UnsplashDesktopAppStoreAddoneTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson5.*" />
+          <option name="PATTERN" value="ru.gb.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.lesson5" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson5.UnsplashTest" />
-      <option name="METHOD_NAME" value="goToOkkoTest" />
+      <option name="PACKAGE_NAME" value="ru.gb.homework5" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework5.UnsplashWebUITest" />
+      <option name="METHOD_NAME" value="UnsplashDesktopAppStoreAddoneTest(java.lang.String,java.lang.String,java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsplashTest.goToSomethingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnsplashWebUITest.UnsplashMobileAppStoreAddoneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson5.*" />
+          <option name="PATTERN" value="ru.gb.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.lesson5" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson5.UnsplashTest" />
-      <option name="METHOD_NAME" value="goToSomethingTest" />
+      <option name="PACKAGE_NAME" value="ru.gb.homework5" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework5.UnsplashWebUITest" />
+      <option name="METHOD_NAME" value="UnsplashMobileAppStoreAddoneTest(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnsplashWebUITest.searchQuerySuggestionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.homework5" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework5.UnsplashWebUITest" />
+      <option name="METHOD_NAME" value="searchQuerySuggestionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnsplashWebUITest.searchQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.homework5" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework5.UnsplashWebUITest" />
+      <option name="METHOD_NAME" value="searchQueryTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ActionsTest.alertExampleTest" />
-      <item itemvalue="JUnit.ActionsTest.highlightTextTest" />
-      <item itemvalue="JUnit.UnsplashTest.goToOkkoTest" />
-      <item itemvalue="JUnit.UnsplashTest.goToSomethingTest" />
-      <item itemvalue="JUnit.TriangleTest" />
+      <item itemvalue="JUnit.UnsplashWebUITest" />
+      <item itemvalue="JUnit.UnsplashWebUITest.UnsplashDesktopAppStoreAddoneTest (1)" />
+      <item itemvalue="JUnit.UnsplashWebUITest.UnsplashMobileAppStoreAddoneTest" />
+      <item itemvalue="JUnit.UnsplashWebUITest.searchQuerySuggestionTest" />
+      <item itemvalue="JUnit.UnsplashWebUITest.searchQueryTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ActionsTest.alertExampleTest" />
-        <item itemvalue="JUnit.ActionsTest.highlightTextTest" />
-        <item itemvalue="JUnit.UnsplashTest.goToSomethingTest" />
-        <item itemvalue="JUnit.UnsplashTest.goToOkkoTest" />
-        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="JUnit.UnsplashWebUITest" />
+        <item itemvalue="JUnit.UnsplashWebUITest.UnsplashDesktopAppStoreAddoneTest (1)" />
+        <item itemvalue="JUnit.UnsplashWebUITest.UnsplashMobileAppStoreAddoneTest" />
+        <item itemvalue="JUnit.UnsplashWebUITest.searchQuerySuggestionTest" />
+        <item itemvalue="JUnit.UnsplashWebUITest.searchQueryTest" />
       </list>
     </recent_temporary>
   </component>
