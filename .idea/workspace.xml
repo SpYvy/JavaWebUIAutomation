@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca597f82-f673-4a1e-83fe-1f5b640909f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson6/BaseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson6/CollectionPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson6/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson6/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson6/MyAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson6/ViewMoreLinksMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson6/OpenCollectionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework6/AppsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework6/BaseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework6/UnsplashMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework6/ViewMoreLinksMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/homework6/UnsplashWebUIPageUObjectTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,99 +52,107 @@
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\java\ru\gb\homework5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\java\ru\gb\homework6" />
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.gb.homework6" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.ActionsTest">
-    <configuration name="ActionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UnsplashWebUIPageUObjectTest.searchBySuggestTest">
+    <configuration name="UnsplashWebUIPageUObjectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson5.*" />
+          <option name="PATTERN" value="ru.gb.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.lesson5" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson5.ActionsTest" />
+      <option name="PACKAGE_NAME" value="ru.gb.homework6" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework6.UnsplashWebUIPageUObjectTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenCollectionsTest.openCollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnsplashWebUIPageUObjectTest.UnsplashMobileChromeAddonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson6.*" />
+          <option name="PATTERN" value="ru.gb.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.lesson6" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson6.OpenCollectionsTest" />
-      <option name="METHOD_NAME" value="openCollectionTest" />
+      <option name="PACKAGE_NAME" value="ru.gb.homework6" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework6.UnsplashWebUIPageUObjectTest" />
+      <option name="METHOD_NAME" value="UnsplashMobileChromeAddonTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsplashTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnsplashWebUIPageUObjectTest.searchByQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson5.*" />
+          <option name="PATTERN" value="ru.gb.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.lesson5" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson5.UnsplashTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="ru.gb.homework6" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework6.UnsplashWebUIPageUObjectTest" />
+      <option name="METHOD_NAME" value="searchByQueryTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsplashWebUITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnsplashWebUIPageUObjectTest.searchBySuggestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.homework5.*" />
+          <option name="PATTERN" value="ru.gb.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.homework5" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.homework5.UnsplashWebUITest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="ru.gb.homework6" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework6.UnsplashWebUIPageUObjectTest" />
+      <option name="METHOD_NAME" value="searchBySuggestTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.gb.lesson4 in JavaWebUIAutomation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnsplashWebUIPageUObjectTest.searchQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.lesson4.*" />
+          <option name="PATTERN" value="ru.gb.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.lesson4" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="ru.gb.homework6" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework6.UnsplashWebUIPageUObjectTest" />
+      <option name="METHOD_NAME" value="searchQueryTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ActionsTest" />
-      <item itemvalue="JUnit.OpenCollectionsTest.openCollectionTest" />
-      <item itemvalue="JUnit.UnsplashTest" />
-      <item itemvalue="JUnit.ru.gb.lesson4 in JavaWebUIAutomation" />
-      <item itemvalue="JUnit.UnsplashWebUITest" />
+      <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest" />
+      <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.UnsplashMobileChromeAddonTest" />
+      <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchByQueryTest" />
+      <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchBySuggestTest" />
+      <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchQueryTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ActionsTest" />
-        <item itemvalue="JUnit.UnsplashTest" />
-        <item itemvalue="JUnit.UnsplashWebUITest" />
-        <item itemvalue="JUnit.ru.gb.lesson4 in JavaWebUIAutomation" />
-        <item itemvalue="JUnit.OpenCollectionsTest.openCollectionTest" />
+        <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchBySuggestTest" />
+        <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchByQueryTest" />
+        <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest" />
+        <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchQueryTest" />
+        <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.UnsplashMobileChromeAddonTest" />
       </list>
     </recent_temporary>
   </component>
