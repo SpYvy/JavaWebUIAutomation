@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca597f82-f673-4a1e-83fe-1f5b640909f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework6/AppsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework6/BaseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework6/UnsplashMainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework6/ViewMoreLinksMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/homework6/UnsplashWebUIPageUObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson7/MyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson7/MyWebDriverEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson7/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson7/EventListenerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson7/MyShowTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -52,6 +54,8 @@
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\java\ru\gb\homework5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\test\java\ru\gb\lesson7" />
+      <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\java\ru\gb\lesson7" />
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\java\ru\gb\homework6" />
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\resources" />
     </key>
@@ -59,7 +63,22 @@
       <recent name="ru.gb.homework6" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UnsplashWebUIPageUObjectTest.searchBySuggestTest">
+  <component name="RunManager" selected="JUnit.MyShowTest">
+    <configuration name="MyShowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.lesson7" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson7.MyShowTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UnsplashWebUIPageUObjectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
@@ -71,22 +90,6 @@
       <option name="PACKAGE_NAME" value="ru.gb.homework6" />
       <option name="MAIN_CLASS_NAME" value="ru.gb.homework6.UnsplashWebUIPageUObjectTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnsplashWebUIPageUObjectTest.UnsplashMobileChromeAddonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaWebUIAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.gb.homework6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.homework6" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.homework6.UnsplashWebUIPageUObjectTest" />
-      <option name="METHOD_NAME" value="UnsplashMobileChromeAddonTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,19 +143,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.MyShowTest" />
       <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest" />
-      <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.UnsplashMobileChromeAddonTest" />
       <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchByQueryTest" />
       <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchBySuggestTest" />
       <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchQueryTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyShowTest" />
         <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchBySuggestTest" />
         <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchByQueryTest" />
         <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest" />
         <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchQueryTest" />
-        <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.UnsplashMobileChromeAddonTest" />
       </list>
     </recent_temporary>
   </component>
