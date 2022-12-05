@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca597f82-f673-4a1e-83fe-1f5b640909f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson7/MyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson7/MyWebDriverEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson7/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson7/EventListenerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/lesson7/MyShowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/homework7/UnsplashWebUIPageObjectAllureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -42,7 +39,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/GIGABYTE-PC/IdeaProjects/JavaWebUIAutomation/src/main/java/ru/gb/homework5&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/GIGABYTE-PC/IdeaProjects/JavaWebUIAutomation/target/allure-results&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -51,6 +48,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\target\allure-results" />
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\java\ru\gb\homework5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -60,10 +58,11 @@
       <recent name="C:\Users\GIGABYTE-PC\IdeaProjects\JavaWebUIAutomation\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.gb.homework7" />
       <recent name="ru.gb.homework6" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyShowTest">
+  <component name="RunManager" selected="JUnit.UnsplashWebUIPageObjectAllureTest">
     <configuration name="MyShowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaWebUIAutomation" />
       <extension name="coverage">
@@ -74,6 +73,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.gb.lesson7" />
       <option name="MAIN_CLASS_NAME" value="ru.gb.lesson7.MyShowTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnsplashWebUIPageObjectAllureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.homework7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.homework7" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework7.UnsplashWebUIPageObjectAllureTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,36 +140,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsplashWebUIPageUObjectTest.searchQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaWebUIAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.gb.homework6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.gb.homework6" />
-      <option name="MAIN_CLASS_NAME" value="ru.gb.homework6.UnsplashWebUIPageUObjectTest" />
-      <option name="METHOD_NAME" value="searchQueryTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="JUnit.UnsplashWebUIPageObjectAllureTest" />
       <item itemvalue="JUnit.MyShowTest" />
       <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest" />
       <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchByQueryTest" />
       <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchBySuggestTest" />
-      <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchQueryTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UnsplashWebUIPageObjectAllureTest" />
         <item itemvalue="JUnit.MyShowTest" />
         <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchBySuggestTest" />
         <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchByQueryTest" />
         <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest" />
-        <item itemvalue="JUnit.UnsplashWebUIPageUObjectTest.searchQueryTest" />
       </list>
     </recent_temporary>
   </component>
